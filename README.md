@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![codewars](https://www.codewars.com/users/servarl/badges/large)
 
 <!--
